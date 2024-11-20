@@ -1,0 +1,23 @@
+.img {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 400px;
+}
+
+.img img {
+    height: 400px;
+    width: auto;
+}
+
+h1 {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+body {
+    background-color: rgb(1, 59, 22);
+}
